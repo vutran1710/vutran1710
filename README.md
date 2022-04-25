@@ -4,3 +4,4 @@
 # Recent doings
 + [Write your own React](https://github.com/vutran1710/WriteYourOwnReact)
 + [New Shared-State-Managing Tool using purely React-Hooks](https://github.com/vutran1710/Green-State)
++ [Interactive Consistent Hashing](https://github.com/vutran1710/interactive-consistent-hashing)
