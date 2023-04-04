@@ -1,3 +1,10 @@
+# What am I doing?
+### Code Cowboy at KyberNetWork 🤠
+- Currently building a blockchain indexing platform with Rust :bowtie:
+- Dislike Golang 😆
+
+
+![ezcv logo](https://pbs.twimg.com/profile_images/1639026439444987904/h9Xde_ww_400x400.jpg)
 
 
 # 💻 Tech Stack:
