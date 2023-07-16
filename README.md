@@ -1,8 +1,9 @@
-# What am I doing?
-### Code Cowboy at KyberNetWork 🤠
-- Currently building a web3 weird shits with Rust :bowtie:
-- Dislike Golang 😆
-- My favorites stacks include Python, Javascript, Rust & Clojure(im noob)
+## About me
+- Have done lots of different stuffs just to get out of boredom (frontend, backend, blockchain, data, system etc)
+- Currently building web3 weird shits with Rust 
+- Not too fond of java & golang
+- Not good enough to do AI & ML (nor interested)
+- Happy being a noob & life-long learner
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vutran1710&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
