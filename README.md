@@ -20,3 +20,6 @@
 
 ## My latest project
 [Datafast-Runtime: a blockchain indexing engine built with focus on performance & cost effeciency](https://runtime.datafast.network/)
+<p>
+  <a href="https://ibb.co/cXLzSj0"><img src="https://i.ibb.co/cXLzSj0/hardbed-logo.png" alt="hardbed-logo" border="0"></a>
+</p>
